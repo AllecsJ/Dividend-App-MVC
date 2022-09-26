@@ -1,0 +1,12 @@
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.csproj.AssemblyReference.cache
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.Properties.Resources.resources
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.csproj.GenerateResource.cache
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.csproj.CoreCompileInputs.cache
+C:\Users\kirkp\source\repos\BaritaDividendsApp\bin\Debug\BaritaDividendsApp.exe.config
+C:\Users\kirkp\source\repos\BaritaDividendsApp\bin\Debug\BaritaDividendsApp.exe
+C:\Users\kirkp\source\repos\BaritaDividendsApp\bin\Debug\BaritaDividendsApp.pdb
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.exe
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.pdb
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.viewDividends.resources
+C:\Users\kirkp\source\repos\BaritaDividendsApp\obj\Debug\BaritaDividendsApp.newDividends.resources
